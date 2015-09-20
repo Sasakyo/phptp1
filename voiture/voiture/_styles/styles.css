@@ -1,0 +1,86 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+
+}
+
+h1 {
+	color: font-size: 2.25em;
+    color: #48b3a9;
+    font-family: "proxima-nova";
+    font-weight: 800;
+}
+
+h2 {
+	font-size: 2.25em;
+    color: #46484a;
+    font-family: "proxima-nova";
+    font-weight: 800;
+}
+
+p {
+	color: #48b3a9;
+	font-weight: 400;
+}
+
+label {
+	display: block;
+	padding-bottom: 1em;
+
+	
+}
+
+input { 
+	float: left;
+	height: 2em;
+	padding-left: 1em;
+}
+
+
+form{
+	font-family: "aktiv-grotesk-std";
+    font-weight: 300;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+main {
+	width: 60%;
+	margin: 0 auto;
+}
+
+#submit {
+	background-color:#48b3a8;
+	display:inline-block;
+	color:#ffffff;
+	font-size: 1em;
+	font-weight:bold;
+	padding: 1em 2.3em;
+	padding-bottom: 2em;
+	text-decoration:none;
+	font-family: "proxima-nova";
+	border: 2px solid white;
+	box-shadow: none;
+	transition: 400ms all ease-in;
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+
+#submit:hover {
+	background: none;
+	color: #48b3a9;
+	border: 2px solid #48b3a9;
+
+}
+
+img {
+	width: 100%;
+}
+fieldset {
+   margin-top: 2em;
+}
+
+form {
+	padding-bottom: 5em;
+}
